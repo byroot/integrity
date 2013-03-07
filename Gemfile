@@ -80,4 +80,5 @@ group :test do
   gem "turn"
   gem "timecop"
   gem "rake"
+  gem 'ZenTest', '~> 4.8.4'
 end

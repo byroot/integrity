@@ -159,6 +159,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ZenTest (~> 4.8.4)
   activerecord (~> 3.2)
   aws-ses
   bcat
